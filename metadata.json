@@ -1,0 +1,6 @@
+{
+  "name": "중학 과학 모션 퀴즈 - Hand Gesture Science Quiz",
+  "description": "MediaPipe 손가락 제스처(1~4개 1.5초 유지)와 마우스 클릭으로 푸는 중학교 과학 4지선다 퀴즈 웹앱. 브라우저 로컬 비전 처리.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
